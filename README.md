@@ -1,3 +1,3 @@
 # asyncLanding
-Platzi project for learning JavaScript asynchronous functionaly
+Platzi project for learning JavaScript asynchronous functionaly <br>
 THEME: DROSS ROTZANK TRIBUTE :D
